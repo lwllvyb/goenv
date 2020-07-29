@@ -35,7 +35,7 @@
   :prefix "goenv-"
   :group 'languages)
 
-(defvar goenv-default-gopath "~/Workspace/go/lib:~/Workspace/go"
+(defvar goenv-default-gopath ""
   "The default gopath")
 
 (defvar goenv-temporary-env nil
